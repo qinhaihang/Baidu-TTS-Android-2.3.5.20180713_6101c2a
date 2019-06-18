@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\demo\\BaiduTTS\\Baidu-TTS-Android-2.3.5.20180713_6101c2a\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\qinhaihang_vendor\\.android\\build-cache\\8112828716256cc355f3e0bb20febd75b164519d\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\demo\\BaiduTTS\\Baidu-TTS-Android-2.3.5.20180713_6101c2a\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\qinhaihang_vendor\\.android\\build-cache\\8112828716256cc355f3e0bb20febd75b164519d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\demo\\BaiduTTS\\Baidu-TTS-Android-2.3.5.20180713_6101c2a\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\qinhaihang_vendor\\.android\\build-cache\\8112828716256cc355f3e0bb20febd75b164519d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\demo\\BaiduTTS\\Baidu-TTS-Android-2.3.5.20180713_6101c2a\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\qinhaihang_vendor\\.android\\build-cache\\8112828716256cc355f3e0bb20febd75b164519d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

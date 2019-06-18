@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\7d83689d51d5fa29f1241665c79453b067ed44e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_aabc235ade9a9c4f3c6c38da7b526dd97feb8c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\common-1.1.0_2a390acf4f2503102376c69531337081f67554bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\common-1.1.0_37b81b60a7beb66b3e927f64735386586aedd25a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\support-annotations-27.1.1_28e0745e18c2015b85860348787b7ab22fafff9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\d698f388e21d86b5e6d950f2a7f48faaf3410a8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_fda8b391c51a24d1974eea7f598aa06eaff9f685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\35a22fd1cb8a8c5726b2a537ddd19306b30a24df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_6a5ae4339a22520232e6b587f0f3269d2332b6e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\ea0823e60de88ea17563965d374f5a956004f46e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_58e0c84388edbaf5236a7475a22ccb696d6cdbcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\6564edc7c3fe5755ddf2ce5b395c829f072ff6d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_92bbe142ec57578bfffca561bb14959639ab3c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\67d6cc57416cce7274138b07ebee34fd8b85355e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_3b20755e452da7697a6654e9837994b6b1800f1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\ff0b79ddffc42b6a9388ca375d3b34fd62059e1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_e4dfb55cda9bd0a40424ef9cf919deedc3a9e920.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\libs\com.baidu.tts_2.3.2.20180713_6101c2a.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f76dfd8a02582d7b17208aa201b072703933ce4">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\com.baidu.tts_2.3.2.20180713_6101c2a_5a5a9735e34730355dbcb33d5e828dd4a7c61780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\99319c5ca25e90483b79ae610e68168d937d81dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_af68d8ebedf00f49fc621dfbc356e84a169f1004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\20f692a85b5ec4b3b4110d0d400593e2f6634291\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_5d540d9516efad6b769e729cf715f49545570a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\62a0769ec2a433a737db6f2ef11b184326b25602\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_4d383e48a7b7670f3ab1aa23931cf016a3873d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\qinhaihang_vendor\.android\build-cache\81e2f342f735b193a723237ec6b77559454d8531\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="E:\demo\BaiduTTS\Baidu-TTS-Android-2.3.5.20180713_6101c2a\app\build\intermediates\pre-dexed\debug\classes_3c5042f4ca6776455e7f3fbb88534dfcf804c84f.jar" />
+    </item>
+
+</items>
